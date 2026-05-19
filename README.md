@@ -13,6 +13,10 @@ A intenção deste repositório é preservar o código-fonte original e estrutur
 * **Experimentos:** Testar modificações conceituais ou pequenas customizações na interface.
 * **Preservação:** Manter um ambiente funcional para rodar e entender as aplicações nativas.
 
+Alumas Ideias:
+* **Reprojetar a Interface:** Deixa a interface parecida com a do Windows 3.0 ou dos MS/DOS 1.0
+* **Driver de Áudio:** Driver de áudio que tenha mais de uma channel.
+
 ---
 
 ## 🔏 Licença
